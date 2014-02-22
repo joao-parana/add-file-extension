@@ -1,0 +1,12 @@
+{
+    "name": "joao-parana.add-file-extension",
+    "title": "Add File Extension",
+    "description": "add file extension .html.eco",
+    "homepage": "https://github.com/joao-parana/add-file-extension",
+    "version": "0.1.0",
+    "author": "João Paraná <joao.parana@gmail.com> (https://github.com/joao-parana/)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.36.0"
+    }
+}
