@@ -7,7 +7,7 @@ brackets extension that does the following
 
 Install
 =======
-1. Select menu item **File > Install Extension** in Brackets
+1. Select menu item **File > Extension Manager... / Install from URL... ** in Brackets
 2. Fill in URL *https://github.com/joao-parana/add-file-extension* and click *Install* button
 3. Enable the extension from menu item **Edit > Whitespace Normalizer**
 
